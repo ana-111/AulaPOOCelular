@@ -1,0 +1,4 @@
+C:\Users\Pichau\Documents\AulaPOOCelular\obj\Debug\netcoreapp3.0\Celular.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\AulaPOOCelular\obj\Debug\netcoreapp3.0\Celular.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\AulaPOOCelular\obj\Debug\netcoreapp3.0\Celular.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\AulaPOOCelular\obj\Debug\netcoreapp3.0\Celular.AssemblyInfo.cs
